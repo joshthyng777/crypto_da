@@ -4,7 +4,7 @@ This repository contains the code and documentation for the exploratory data ana
 
 ## Data
 
-The `crypto.csv` file contains information on various cryptocurrencies, including their names, symbols, market caps, and prices. The data was obtained from [CoinMarketCap](https://coinmarketcap.com/).
+The `crypto.csv` file contains information on various cryptocurrencies, including their names, symbols, market caps, and prices. The data was obtained from [Kaggle](https://www.kaggle.com/).
 
 ## Code
 
