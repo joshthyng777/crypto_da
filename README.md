@@ -18,6 +18,5 @@ The `crypto_da.ipynb` file contains the Python code used to conduct the EDA. The
 
 The EDA yielded several interesting insights into the cryptocurrency market, including:
 
-- The top 5 cryptocurrencies by market cap are Bitcoin, Ethereum, Binance Coin, XRP, and Solana.
 - Bitcoin has the highest market cap by far, followed by Ethereum.
 - The distribution of cryptocurrency prices is highly skewed, with a long tail of high-priced cryptocurrencies.
